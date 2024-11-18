@@ -67,8 +67,7 @@ A programação reativa é ideal para interfaces dinâmicas, streaming de dados,
 - BONÉR, Jonas; FARLEY, Dave; KUHN, Roland; THOMPSON, Martin. Reactive Manifesto. 2014. Disponível em: [Reactive Manifest](https://www.reactivemanifesto.org/pt-BR.)
 - BELEM, Edson. Entendendo Programações Reativas e o Padrão Event-Driven Architecture (EDA). 2024. Disponível em: [HackMD](https://hackmd.io/@edsonbelem/S1IYRC8Fp?utm_source=preview-mode&utm_medium=rec) 
 - CRONAPP. Programação reativa: um guia para o futuro do desenvolvimento. Blog Cronapp, 2020. Dísponivel em: [Programação Reativa - CRONOAPP](https://blog.cronapp.io/programacao-reativa/)
-- [Biblioteca RXJS](https://rxjs.dev/)
 - REACTIVE EXTENSIONS. Rx.NET: Reactive Extensions for .NET. GitHub, 2024. Disponível em: [Github Rx.NET](https://github.com/Reactive-Extensions/Rx.NET)
-- [Kotlinlang](https://kotlinlang.org/docs/coroutines-overview.html)
+- KOTLIN. Coroutines overview. 2022. Disponível em: [Kotlinlang](https://kotlinlang.org/docs/coroutines-overview.html)
 - UDEMY. Programação Reativa. 2023. Disponível em:[Programação Reativa](https://www.udemy.com/course/programacao-reativa/?srsltid=AfmBOor8-KePQwvyzhrDcXVuFIY9DlTEeGd7q3AfujA7JLzAqBOLElGb)
 
