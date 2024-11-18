@@ -70,4 +70,4 @@ A programação reativa é ideal para interfaces dinâmicas, streaming de dados,
 - REACTIVE EXTENSIONS. Rx.NET: Reactive Extensions for .NET. GitHub, 2024. Disponível em: [Github Rx.NET](https://github.com/Reactive-Extensions/Rx.NET)
 - KOTLIN. Coroutines overview. 2022. Disponível em: [Kotlinlang](https://kotlinlang.org/docs/coroutines-overview.html)
 - UDEMY. Programação Reativa. 2023. Disponível em:[Programação Reativa](https://www.udemy.com/course/programacao-reativa/?srsltid=AfmBOor8-KePQwvyzhrDcXVuFIY9DlTEeGd7q3AfujA7JLzAqBOLElGb)
-- GUEDES, Marylene. O que é programação reativa? Blog TreinaWeb, 2021. Disponível em: https://www.treinaweb.com.br/blog/o-que-e-programacao-reativa. 
+- GUEDES, Marylene. O que é programação reativa? Blog TreinaWeb, 2021. Disponível em:[O que é programação reativa](https://www.treinaweb.com.br/blog/o-que-e-programacao-reativa) 
