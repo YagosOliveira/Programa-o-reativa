@@ -65,7 +65,7 @@ A programação reativa é ideal para interfaces dinâmicas, streaming de dados,
 - FROES, Gabriel, WEBER, Vanessa, CODIGO FONTE TV. Programação Reativa. 2020. Disponível em: [Programação Reativa](https://www.youtube.com/watch?v=OssqXGdmbAE&t=302s&ab_channel=C%C3%B3digoFonteTV)
 - AWARI. Programação Reativa: tudo o que você precisa saber. Disponível em:[Programação Reativa: tudo o que você precisa saber](https://awari.com.br/o-que-e-programacao-reativa-tudo-o-que-voce-precisa-saber/#:~:text=A%20programa%C3%A7%C3%A3o%20reativa%20busca%20garantir,e%20sistemas%20de%20negocia%C3%A7%C3%A3o%20financeira.) 
 - BONÉR, Jonas; FARLEY, Dave; KUHN, Roland; THOMPSON, Martin. Reactive Manifesto. 2014. Disponível em: [Reactive Manifest](https://www.reactivemanifesto.org/pt-BR.)
-- [HackMD](https://hackmd.io/@edsonbelem/S1IYRC8Fp?utm_source=preview-mode&utm_medium=rec)
+- BELEM, Edson. Entendendo Programações Reativas e o Padrão Event-Driven Architecture (EDA). 2024. Disponível em: [HackMD](https://hackmd.io/@edsonbelem/S1IYRC8Fp?utm_source=preview-mode&utm_medium=rec) 
 - [Programação Reativa - CRONOAPP](https://blog.cronapp.io/programacao-reativa/)
 - [Biblioteca RXJS](https://rxjs.dev/)
 - [Github Rx.NET](https://github.com/Reactive-Extensions/Rx.NET)
