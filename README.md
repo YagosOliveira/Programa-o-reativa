@@ -44,6 +44,9 @@ A programação reativa é ideal para interfaces dinâmicas, streaming de dados,
 📜 História: JavaScript foi criado em 1995 por Brendan Eich em apenas 10 dias, inicialmente para adicionar interatividade a páginas web, evoluindo para se tornar uma das linguagens mais populares e versáteis do mundo, usada tanto no front-end quanto no back-end.
 
 📌 Casos de Uso: O JavaScript é utilizado para criar páginas web dinâmicas e interativas, aplicativos móveis híbridos e web progressivos, aplicações do lado do servidor, programar dispositivos IoT e desenvolver jogos 2D e 3D.
+
+## 🔗Links:
+- [Apresentação](https://app.genially.com/editor/670c34f6b7b73200a45a927b)
 ## 📚 Referências
 
 
