@@ -72,10 +72,13 @@ A programação reativa é ideal para interfaces dinâmicas, streaming de dados,
 
 ## 📟 Códigos
 -Exemplo 1°: Variáveis
+
 ![image](https://github.com/user-attachments/assets/70eec7dd-ddf4-43f3-b4fc-2822024e25f2)
 
 -Exemplo 2°: Arrays
+
 ![image](https://github.com/user-attachments/assets/e5d8a1e7-9d6c-42fa-ac1f-bcb22024fe68)
 
 -Exemplo 3°: Condições
+
 ![image](https://github.com/user-attachments/assets/f4ac4666-2103-47ba-8a28-25e49bd834e7)
