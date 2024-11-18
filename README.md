@@ -55,7 +55,7 @@ A programação reativa é ideal para interfaces dinâmicas, streaming de dados,
 
 - CARTER, Stoyan; ALTERNATIVE, Tom. Reactive Programming with RxJS. 2019. Disponível em: [Programação Reativa com RxJS](https://hoclaptrinhdanang.com/downloads/pdf/react/Reactive%20Programming%20with%20RxJS.pdf.)
 - KUHN, Roland; ALLEN, Jamie; HANAFEE, Brian. Reactive Design Patterns. 1. ed. Birmingham: Packt Publishing, 2017.Disponivel em: [Livro: Reactive Desing Patterns](https://content.lightbend.com/hubfs/collateral/ebook/ebook_reactive_design_patterns.pdf)
-- ALMEIDA, Sintia. Paradigmas de Programação. Digital Innovation One. Disponível em:[DIO] https://www.dio.me/articles/paradigmas-de-programacao-1J5X9H.
+- ALMEIDA, Sintia. Paradigmas de Programação. Digital Innovation One. Disponível em:[DIO](https://www.dio.me/articles/paradigmas-de-programacao-1J5X9H).
 - WIKIPEDIA. JavaScript – Bibliografia. Disponível em: [Wikipedia JavaScript](https://pt.wikipedia.org/wiki/JavaScript).
 - KEMPF, Rachel. A história do JavaScript. Disponível em: [Historia do JavaScript - azion](https://www.azion.com/pt-br/blog/a-historia-do-javascript/).
 - AWARI. A história do JavaScript: do passado ao presente. Disponível em: [Historia do JavaScript - awari](https://awari.com.br/a-historia-do-javascript-do-passado-ao-presente/).
@@ -70,4 +70,5 @@ A programação reativa é ideal para interfaces dinâmicas, streaming de dados,
 - [Biblioteca RXJS](https://rxjs.dev/)
 - REACTIVE EXTENSIONS. Rx.NET: Reactive Extensions for .NET. GitHub, 2024. Disponível em: [Github Rx.NET](https://github.com/Reactive-Extensions/Rx.NET)
 - [Kotlinlang](https://kotlinlang.org/docs/coroutines-overview.html)
+- UDEMY. Programação Reativa. 2023. Disponível em:[Programação Reativa](https://www.udemy.com/course/programacao-reativa/?srsltid=AfmBOor8-KePQwvyzhrDcXVuFIY9DlTEeGd7q3AfujA7JLzAqBOLElGb)
 
