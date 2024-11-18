@@ -69,7 +69,7 @@ A programação reativa é ideal para interfaces dinâmicas, streaming de dados,
 - KOTLIN. Coroutines overview. 2022. Disponível em: [Kotlinlang](https://kotlinlang.org/docs/coroutines-overview.html)
 - UDEMY. Programação Reativa. 2023. Disponível em:[Programação Reativa](https://www.udemy.com/course/programacao-reativa/?srsltid=AfmBOor8-KePQwvyzhrDcXVuFIY9DlTEeGd7q3AfujA7JLzAqBOLElGb)
 - GUEDES, Marylene. O que é programação reativa? Blog TreinaWeb, 2021. Disponível em:[O que é programação reativa](https://www.treinaweb.com.br/blog/o-que-e-programacao-reativa)
-- HYPERSKILL. Basics of HTML. Hyperskill, 2024. Disponível em: [REFERENCIA IMAGEM SLIDE 8](https://hyperskill.org/learn/step/24106.)
+- JETBRAINS ACADEMY. Basics of HTML. Hyperskill, 2024. Disponível em: [REFERENCIA IMAGEM SLIDE 8](https://hyperskill.org/learn/step/24106.)
 
 ## 📟 Códigos
 -Exemplo 1°: Variáveis
