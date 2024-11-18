@@ -51,8 +51,6 @@ A programação reativa é ideal para interfaces dinâmicas, streaming de dados,
 - [Livro "React Programming with RxJS"](https://hoclaptrinhdanang.com/downloads/pdf/react/Reactive%20Programming%20with%20RxJS.pdf)
 
 ## 📚 Referências
-
-
 - CARTER, Stoyan; ALTERNATIVE, Tom. Reactive Programming with RxJS. 2019. Disponível em: [Programação Reativa com RxJS](https://hoclaptrinhdanang.com/downloads/pdf/react/Reactive%20Programming%20with%20RxJS.pdf.)
 - KUHN, Roland; ALLEN, Jamie; HANAFEE, Brian. Reactive Design Patterns. 1. ed. Birmingham: Packt Publishing, 2017.Disponivel em: [Livro: Reactive Desing Patterns](https://content.lightbend.com/hubfs/collateral/ebook/ebook_reactive_design_patterns.pdf)
 - ALMEIDA, Sintia. Paradigmas de Programação. Digital Innovation One. Disponível em:[DIO](https://www.dio.me/articles/paradigmas-de-programacao-1J5X9H).
