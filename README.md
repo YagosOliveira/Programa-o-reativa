@@ -47,6 +47,7 @@ A programação reativa é ideal para interfaces dinâmicas, streaming de dados,
 
 ## 🔗Links:
 - [Apresentação](https://app.genially.com/editor/670c34f6b7b73200a45a927b)
+- [Kahoot](https://create.kahoot.it/share/perguntas-sobre-reatividade/17febd2c-ae29-469e-bf0d-e7927e22b1f6)
 ## 📚 Referências
 
 
