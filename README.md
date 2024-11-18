@@ -49,21 +49,22 @@ A programação reativa é ideal para interfaces dinâmicas, streaming de dados,
 - [Apresentação](https://app.genially.com/editor/670c34f6b7b73200a45a927b)
 - [Kahoot](https://create.kahoot.it/share/perguntas-sobre-reatividade/17febd2c-ae29-469e-bf0d-e7927e22b1f6)
 - [Livro "React Programming with RxJS"](https://hoclaptrinhdanang.com/downloads/pdf/react/Reactive%20Programming%20with%20RxJS.pdf)
+
 ## 📚 Referências
-## 📚 Referências
 
 
-
-- [Paradigmas - DIO](https://www.dio.me/articles/paradigmas-de-programacao-1J5X9H)
+- CARTER, Stoyan; ALTERNATIVE, Tom. Reactive Programming with RxJS. 2019. Disponível em: [Programação Reativa com RxJS](https://hoclaptrinhdanang.com/downloads/pdf/react/Reactive%20Programming%20with%20RxJS.pdf.)
+- KUHN, Roland; ALLEN, Jamie; HANAFEE, Brian. Reactive Design Patterns. 1. ed. Birmingham: Packt Publishing, 2017.Disponivel em: [Livro: Reactive Desing Patterns](https://content.lightbend.com/hubfs/collateral/ebook/ebook_reactive_design_patterns.pdf)
+- ALMEIDA, Sintia. Paradigmas de Programação. Digital Innovation One. Disponível em:[DIO] https://www.dio.me/articles/paradigmas-de-programacao-1J5X9H.
 - WIKIPEDIA. JavaScript – Bibliografia. Disponível em: [Wikipedia JavaScript](https://pt.wikipedia.org/wiki/JavaScript).
 - KEMPF, Rachel. A história do JavaScript. Disponível em: [Historia do JavaScript - azion](https://www.azion.com/pt-br/blog/a-historia-do-javascript/).
 - AWARI. A história do JavaScript: do passado ao presente. Disponível em: [Historia do JavaScript - awari](https://awari.com.br/a-historia-do-javascript-do-passado-ao-presente/).
 - REBELLO, Mariana. JavaScript: o que é, como surgiu e onde utilizar. Disponível em: [Onde usar javascript - resilia](https://www.resilia.com.br/blog/javascript-o-que-e-como-surgiu-e-onde-utilizar/).
 - SANTOS, Pablo. JavaScript e Java: o que são e quais as principais diferenças. Disponível em: [Java vs JavaScript](https://arphoenix.com.br/javascript-e-java-o-que-sao-e-quais-as-principais-diferencas/).
-- [Programação Reativa - Alura](https://www.youtube.com/watch?v=ifA-57jTk7Y&ab_channel=Alura)
-- [Programação Reativa - codigo fonte](https://www.youtube.com/watch?v=OssqXGdmbAE&t=302s&ab_channel=C%C3%B3digoFonteTV)
-- [Programação Reativa - awari](https://awari.com.br/o-que-e-programacao-reativa-tudo-o-que-voce-precisa-saber/#:~:text=A%20programa%C3%A7%C3%A3o%20reativa%20busca%20garantir,e%20sistemas%20de%20negocia%C3%A7%C3%A3o%20financeira.)
-- [Manifesto Reativo](https://www.reactivemanifesto.org/pt-BR)
+- ALURA. Programação Reativa. 2021. Disponível em:[O que é Programação Reativa?](https://www.youtube.com/watch?v=ifA-57jTk7Y&ab_channel=Alura.)
+- FROES, Gabriel, WEBER, Vanessa, CODIGO FONTE TV. Programação Reativa. 2020. Disponível em: [Programação Reativa](https://www.youtube.com/watch?v=OssqXGdmbAE&t=302s&ab_channel=C%C3%B3digoFonteTV)
+- AWARI. Programação Reativa: tudo o que você precisa saber. Disponível em:[Programação Reativa: tudo o que você precisa saber](https://awari.com.br/o-que-e-programacao-reativa-tudo-o-que-voce-precisa-saber/#:~:text=A%20programa%C3%A7%C3%A3o%20reativa%20busca%20garantir,e%20sistemas%20de%20negocia%C3%A7%C3%A3o%20financeira.) 
+- BONÉR, Jonas; FARLEY, Dave; KUHN, Roland; THOMPSON, Martin. Reactive Manifesto. 2014. Disponível em: [Reactive Manifest](https://www.reactivemanifesto.org/pt-BR.)
 - [HackMD](https://hackmd.io/@edsonbelem/S1IYRC8Fp?utm_source=preview-mode&utm_medium=rec)
 - [Programação Reativa - CRONOAPP](https://blog.cronapp.io/programacao-reativa/)
 - [Biblioteca RXJS](https://rxjs.dev/)
