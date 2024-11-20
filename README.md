@@ -46,7 +46,7 @@ A programação reativa é ideal para interfaces dinâmicas, streaming de dados,
 📌 Casos de Uso: O JavaScript é utilizado para criar páginas web dinâmicas e interativas, aplicativos móveis híbridos e web progressivos, aplicações do lado do servidor, programar dispositivos IoT e desenvolver jogos 2D e 3D.
 
 ## 🔗Links:
-- [Apresentação](https://app.genially.com/editor/670c34f6b7b73200a45a927b)
+- [Apresentação](https://view.genially.com/670c34f6b7b73200a45a927b/presentation-apresentacao-interativa-basica)
 - [Kahoot](https://create.kahoot.it/share/perguntas-sobre-reatividade/17febd2c-ae29-469e-bf0d-e7927e22b1f6)
 - [Livro "React Programming with RxJS"](https://hoclaptrinhdanang.com/downloads/pdf/react/Reactive%20Programming%20with%20RxJS.pdf)
 
